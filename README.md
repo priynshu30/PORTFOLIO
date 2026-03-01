@@ -31,80 +31,40 @@ https://portfolio-five-puce-82.vercel.app/
 
 ## 🚀 Built With
 
-This project was built using:
+This project was built using these technologies.
 
-- ⚛ React.js  
-- 🎨 React-Bootstrap  
-- 🟢 Node.js  
-- 🚂 Express.js  
-- 🎯 JavaScript (ES6+)  
-- 🎨 CSS3  
-- 🐙 Git & GitHub  
-- 🚀 Vercel (Deployment)  
+- React.js
+- Node.js
+- Express.js
+- CSS3
+- VsCode
+- Vercel
 
----
+## Features
 
-## ✨ Features
+**📖 Multi-Page Layout**
 
-- 📖 Multi-Page Layout  
-- 📱 Fully Responsive Design  
-- 🎨 Modern UI with clean styling  
-- 📄 Resume Preview & Download  
-- 🚀 Optimized Performance  
+**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
 
----
+**📱 Fully Responsive**
 
-## 📂 Folder Structure
-Portfolio/
-├── public/
-├── src/
-│ ├── Assets/
-│ ├── components/
-│ ├── App.js
-│ └── index.js
-├── package.json
-└── README.md
+## Getting Started
 
----
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
-## 🛠 Installation & Setup Instructions
+## 🛠 Installation and Setup Instructions
 
-Clone the repository and run locally.
+1. Installation: `npm install`
 
-### 1️⃣ Clone the repo
+2. In the project directory, you can run: `npm start`
 
-```bash
-git clone https://github.com/priynshu30/Portfolio.git
-cd Portfolio
-npm start
-http://localhost:3000
-🧑‍💻 Customization Guide
-/src/components/
-You can update:
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.
 
-Your Name
+## Usage Instructions
 
-Projects
+Open the project folder and Navigate to `/src/components/`. <br/>
+You will find all the components used and you can edit your information accordingly.
 
-Resume PDF
 
-Skills
-
-Social Links
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priynshu30&show_icons=true&theme=tokyonight" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=priynshu30&theme=tokyonight" /> </p>
-🤝 Connect With Me
-
-🌐 Portfolio: https://portfolio-five-puce-82.vercel.app/
-
-💻 GitHub: https://github.com/priynshu30
-
-🔗 LinkedIn: https://www.linkedin.com/in/priyanshu-kumar-94a2502b7/
-
-⭐ Show Your Support
-
-If you like this project, please give it a ⭐ on GitHub.
-
-📜 License
-
-This project is open source and available under the MIT License.
