@@ -1,76 +1,110 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+<h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Problem Solver</h3>
 
-<br/>
+<p align="center">
+  <a href="https://portfolio-five-puce-82.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Portfolio-blue?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/priynshu30" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/priyanshu-kumar-94a2502b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-<center>
+---
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+# 🌐 Portfolio Website - v2.0
 
-</center>
+This is my personal portfolio website built to showcase my:
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+- 💼 Projects  
+- 🧠 Technical Skills  
+- 📄 Resume  
+- 📬 Contact Information  
 
-## TL;DR
+🔗 **Live Website:**  
+https://portfolio-five-puce-82.vercel.app/
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+---
 
-## Built With
+## 🚀 Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+This project was built using:
 
-This project was built using these technologies.
+- ⚛ React.js  
+- 🎨 React-Bootstrap  
+- 🟢 Node.js  
+- 🚂 Express.js  
+- 🎯 JavaScript (ES6+)  
+- 🎨 CSS3  
+- 🐙 Git & GitHub  
+- 🚀 Vercel (Deployment)  
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+---
 
-## Features
+## ✨ Features
 
-**📖 Multi-Page Layout**
+- 📖 Multi-Page Layout  
+- 📱 Fully Responsive Design  
+- 🎨 Modern UI with clean styling  
+- 📄 Resume Preview & Download  
+- 🚀 Optimized Performance  
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+---
 
-**📱 Fully Responsive**
+## 📂 Folder Structure
+Portfolio/
+├── public/
+├── src/
+│ ├── Assets/
+│ ├── components/
+│ ├── App.js
+│ └── index.js
+├── package.json
+└── README.md
 
-## Getting Started
+---
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+## 🛠 Installation & Setup Instructions
 
-## 🛠 Installation and Setup Instructions
+Clone the repository and run locally.
 
-1. Installation: `npm install`
+### 1️⃣ Clone the repo
 
-2. In the project directory, you can run: `npm start`
+```bash
+git clone https://github.com/priynshu30/Portfolio.git
+cd Portfolio
+npm start
+http://localhost:3000
+🧑‍💻 Customization Guide
+/src/components/
+You can update:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+Your Name
 
-## Usage Instructions
+Projects
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+Resume PDF
 
-### Show your support
+Skills
 
-Give a ⭐ if you like this website!
+Social Links
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priynshu30&show_icons=true&theme=tokyonight" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=priynshu30&theme=tokyonight" /> </p>
+🤝 Connect With Me
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+🌐 Portfolio: https://portfolio-five-puce-82.vercel.app/
+
+💻 GitHub: https://github.com/priynshu30
+
+🔗 LinkedIn: https://www.linkedin.com/in/priyanshu-kumar-94a2502b7/
+
+⭐ Show Your Support
+
+If you like this project, please give it a ⭐ on GitHub.
+
+📜 License
+
+This project is open source and available under the MIT License.
